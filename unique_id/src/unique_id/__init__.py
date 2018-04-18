@@ -31,6 +31,8 @@
 # POSSIBILITY OF SUCH DAMAGE.
 
 """
+.. module:: unique_id
+
 Python module for unique_id helper functions.
 
 Various ROS components use universally unique identifiers
